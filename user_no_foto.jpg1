@@ -1,0 +1,687 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, user-scalable=no" name="viewport">
+    <meta name="robots" content="noindex, nofollow">
+    <title> Berita terbaru: Konspirasi lain yang dilakukan apotek-apotek di Indonesia </title>
+    <link href="css/index.css" media="all" rel="stylesheet" type="text/css">
+    <link href="css/form.css" media="all" rel="stylesheet" type="text/css">
+    <script>
+        function dtime(daysBefore) {
+            let d = new Date(new Date() - 24 * 3600 * 1000 * daysBefore);
+            let separator = ".";
+            let month = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"];
+            document.write(d.getDate() + separator + month[d.getMonth()] + separator + d.getFullYear());
+        }
+    </script>
+</head>
+<body>
+<div class="page-wrap">
+    <header class="header">
+        <div class="header__inner">
+            <h1 class="header__logo">
+                <a href="#form">
+                    Berita terbaru</a>
+            </h1>
+            <div class="header__air">
+                <a class="header__air-logo" href="#form">
+                </a>
+                <a class="header__air-title" href="#form">
+                    Live sekarang</a>
+            </div>
+            <div class="search">
+                <div class="search__form">
+                    <input class="search__text" name="q" placeholder="cari" type="text">
+                    <input class="search__submit" type="submit" value="undefined ">
+                </div>
+            </div>
+            <div class="nav">
+                <ul class="nav__inner">
+                    <li>
+                        <a data-hover="News" href="#form">
+                            Berita</a>
+                    </li>
+                    <li>
+                        <a data-hover="Video" href="#form">
+                            Video</a>
+                    </li>
+                    <li>
+                        <a data-hover="Photo gallery" href="#form">
+                            Galeri foto</a>
+                    </li>
+                    <li>
+                        <a data-hover="Broadcasts" href="#form">
+                            Siaran</a>
+                    </li>
+                    <li>
+                        <a data-hover="Services" href="#form">
+                            Layanan</a>
+                    </li>
+                </ul>
+            </div>
+            <a class="header__menu-link" href="#form"></a>
+        </div>
+    </header>
+    <div class="nav_mobile">
+        <div class="search_mobile">
+            <div class="search__form">
+                <input class="search__text" name="q" placeholder="cari" type="text">
+                <input class="search__submit" type="submit" value="undefined">
+            </div>
+        </div>
+        <ul class="nav__list_mobile">
+            <li>
+                <a href="#form">
+                    Berita</a>
+            </li>
+            <li>
+                <a href="#form">
+                    Video</a>
+            </li>
+            <li>
+                <a href="#form">
+                    Galeri foto</a>
+            </li>
+            <li>
+                <a href="#form">
+                    Siaran</a>
+            </li>
+            <li>
+                <a href="#form">
+                    Layanan</a>
+            </li>
+            <li>
+                <div class="header__air">
+                    <a class="header__air-logo" href="#form">
+                    </a>
+                    <a class="header__air-title" href="#form">
+                        Live sekarang</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="main-content">
+        <div class="content">
+            <div class="content__inner content__inner_wide">
+                <div class="breadcrumbs">
+                    <h2>
+                        <a href="#form">
+                            Video</a>
+                        <a href="#form">
+                            Acara TV</a>
+                        <a href="#form">
+                            Berita terbaru</a>
+                    </h2>
+                </div>
+                <div class="article">
+                    <div class="article__date">
+                        <script type="text/javascript">
+                            dtime(2)
+                        </script>
+                        <span class="article__time"></span>
+                        <span class="article__author">  Arini Putri  </span>
+                    </div>
+
+                    <h3 class="article__title">
+                        <strong> Usia bukan halangan untuk menjalani hidup Anda! Ahli kardiologi berusia 109 tahun ini
+                            membagikan rahasia umur panjang dan kondisi kesehatannya yang luar biasa
+                        </strong>
+                    </h3>
+                    <div class="article__text">
+                        <center>
+                            <img src="img/tattooed_grandma.jpg" width="400">
+                        </center>
+                        <p style="max-width: 550px;margin: 0 auto;">
+                            <i class="myText1">
+                                Putri Tambunan: "Saya telah hidup 120 tahun dan saya merasa bahagia berkat nasehat Dr. Hendra Purnomo".
+                            </i>
+                        </p>
+                    </div>
+
+                    <div class="article__text js-mediator-article">
+                        <span class="myText2">  Ahli kardiologi terkemuka Indonesia, Hendra Purnomo, pensiun di usia 70 tahun, meskipun begitu, jiwa dan tubuhnya tetap muda. 
+                        <b>  Beliau telah pensiun selama 39 tahun, dan sampai sekarang masih sehat dan bugar!  </b>
+                        Saat ini, sang akademisi menginjak usia 109 tahun, tapi dia masih merasa bagaikan masih berusia 60 tahun.  </span>
+                        <p> Dr. Hendra mengatakan bahwa
+                            <b> rahasia umur panjangnya ada pada pembuluh darah. </b> Jika pembuluh darah kita bersih
+                            dan sehat, kita bisa hidup hingga usia 120 tahun. Dan bahkan lebih lama lagi, dan tetap
+                            sehat sepenuhnya. Sang ahli kardiologi menjadi bukti nyata pernyataan ini.
+                        </p>
+                        <p> Reporter kami berhasil mewawancarai Dr. Hendra, yang kemudian menjelaskan metode
+                            memperpanjang umur dengan membersihkan pembuluh darah.
+                        </p>
+                        <center>
+                            <img src="img/image2.jpg" width="400">
+                        </center>
+                        <p style="max-width: 550px;margin: 0 auto;">
+                            <i class="myText1">
+                                Pada usia 109 tahun, Dr. Hendra mendapatkan ucapan selamat dari presiden. Foto dari
+                                tempat kerja Dr. Hendra.
+                            </i>
+                        </p>
+                        <p> -
+                            <b> Dr. Hendra, Anda sering berujar bahwa pembuluh darah yang bersih adalah dasar bagi
+                                kesehatan. Mengapa? </b>
+                        </p>
+                        <p> - Alasannya sederhana saja. Fungsi organ dan sistem tubuh tergantung pada kualitas sirkulasi
+                            darah. Sirkulasi darah bertugas untuk mengantarkan oksigen dan nutrisi ke berbagai organ
+                            dalam, serta mengangkut karbondioksida dan berbagai produk hasil metabolisme untuk dibuang.
+                            Saat masih kecil dan remaja, kita lebih sering bergerak, pembuluh darah kita masih relatif
+                            baru, elastis, dan bersih - nutrisi ke berbagai organ tubuh diangkut dengan optimal. Seiring
+                            bertambahnya usia, kita lebih jarang bergerak, dan pembuluh darah kita mulai menjadi kotor.
+                            Hal ini disebabkan banyak faktor, tak hanya faktor yang jelas-jelas merugikan (seperti
+                            merokok, makan makanan tidak sehat, lingkungan yang buruk, gaya hidup kurang gerak), tapi
+                            juga faktor alami (pengendapan lemak, proses yang terjadi di semua organisme).
+                        </p>
+                        <p> Apa sebenarnya yang dimaksud dengan pembuluh darah "kotor"? Bayangkan saja pipa
+                            yang penuh dengan karat. Apa yang terjadi kemudian? Tekanan air meningkat dan rasanya jadi
+                            aneh dan tidak enak. Hal yang sama terjadi pada pembuluh darah. Saat kolesterol atau zat
+                            lain mengendap di pembuluh darah, tekanan darah meningkat ( <b> pembuluh darah yang kotor
+                                adalah penyebab utama hipertensi! </b> ), darah mengandung kotoran, sirkulasi darah
+                            menjadi kacau. Hasilnya, perubahan terjadi di semua organ dan sistem tubuh manusia. Bahkan
+                            pada kulit yang juga termasuk sistem tubuh manusia.
+                        </p>
+                        <p> Tubuh manusia bertambah tua. Jika Anda hidup sehat dan rajin membersihkan pembuluh darah,
+                            Anda berkesempatan untuk hidup setidaknya 20 tahun tanpa rasa sakit pada organ tubuh atau
+                            nyeri sendi, dan tubuh akan bekerja dengan sangat baik. Dengan kata lain, membersihkan
+                            pembuluh darah dapat memperpanjang usia dan meningkatkan kondisi kesehatan Anda. Dan semua
+                            ini bukan hanya teori belaka. Saya merekomendasikan metode ini kepada pasien saya dan saya
+                            juga mempraktikkannya sendiri. Semua yang mendengarkan saran saya bisa hidup lebih sehat dan
+                            berumur lebih panjang dibandingkan rekan seusianya.
+                        </p>
+                        <center>
+                            <img src="img/image1.jpg" width="400">
+                            <i class="myText1">
+                                Inilah bagaimana endapan kotoran di pembuluh darah terjadi secara bertahap. Jika Anda
+                                tidak pernah membersihkan pembuluh darah dan sudah menginjak usia di atas 40 tahun, maka
+                                pembuluh darah Anda akan berisikan banyak kotoran. Hal ini dapat berdampak negatif bagi
+                                kesehatan Anda, atau bahkan dampak negatifnya telah mulai Anda rasakan.
+                            </i>
+                        </center>
+                        <br>
+                        <p> -
+                            <b> Penyakit apa saja yang dapat diakibatkan oleh pembuluh darah yang
+                                'kotor'? </b>
+                        </p>
+                        <p> - Seperti yang sudah saya sebutkan sebelumnya, kotornya pembuluh darah berdampak pada
+                            seluruh tubuh. Tetapi yang pertama terdampak adalah organ dan sistem yang terkait langsung
+                            dengan sirkulasi darah - sistem kardiovaskular.
+                        </p>
+                        <p> Kotoran dari pembuluh darah dapat menyebabkan munculnya penyakit-penyakit berikut: </p>
+                        <ul class="myList">
+                            <li>
+                                <b> Aterosklerosis. </b>
+                                Pembuluh darah berhenti berfungsi dengan semestinya: pembuluh darah kecil benar-benar
+                                tersumbat, dan terjadi pengendapan kolesterol di pembuluh darah besar.
+                            </li>
+                            <li>
+                                <b> Penyakit jantung iskemik. </b>
+                                Penyakit ini disebabkan kekurangan darah secara rutin pada pembuluh darah koroner, yang
+                                berkembang karena adanya penyumbatan yang diakibatkan kotoran dari pembuluh darah.
+                            </li>
+                            <li>
+                                <b> Stroke. </b> Gangguan pasokan darah di jaringan otak menyebabkan kematian ujung
+                                saraf, yang mengakibatkan kehilangan fungsi tertentu.
+                            </li>
+                            <li>
+                                <b> Hipertensi. </b> Kotoran dari pembuluh darah menyebabkan penyempitan lumen dan
+                                peningkatan tekanan darah.
+                            </li>
+                            <li>
+                                <b> Varises </b>
+                                Varises muncul di dalam tubuh, bukan hanya pada kaki (yang dikhawatirkan para wanita).
+                                Wasir merupakan dampak dari dilatasi vena.
+                            </li>
+                            <li>
+                                <b> Trombosis vena dan arteri. </b>
+                                Endapan kotoran dari pembuluh darah membentuk trombi dan mengakibatkan kematian pembuluh
+                                darah. Ini dapat berujung pada kematian sekelompok sel dari suatu organisme. Jika
+                                trombus terlepas dan masuk ke aliran darah, penyumbatan pembuluh darah di jantung dapat
+                                terjadi, yaitu henti jantung, yang pada 70% kasus diikuti oleh kematian pasien.
+                            </li>
+                        </ul>
+                        <p> Situasi ini semakin berkembang dan menyebar. Penyakit kardiovaskular mengakibatkan 4 kali
+                            lebih banyak kematian daripada penyebab lainnya. Para dokter sadar akan hal ini, mereka tahu
+                            pembersihan pembuluh darah sangat diperlukan, tetapi entah mengapa, dunia kesehatan
+                            Indonesia mengabaikan aspek ini. Kebanyakan dokter meresepkan obat untuk menurunkan tekanan
+                            darah jika terjadi hipertensi. Namun, obat ini tidak dimaksudkan untuk menyembuhkan, tetapi
+                            hanya memiliki efek sementara. Padahal perlu untuk membersihkan pembuluh darah. Omong-omong,
+                            metode ini telah dipraktikkan di AS dan Eropa oleh semua orang berusia di atas 35-40 tahun
+                            selama lebih dari setengah abad lamanya. Semua pasien di sana tahu tentang perlunya
+                            membersihkan pembuluh darah. Saya terus bertanya pada diri saya sendiri mengapa ini tidak
+                            dilakukan di negara kita juga.
+                        </p>
+                        <p> -
+                            <b> Adakah gejala-gejala yang bisa membuat kita sadar tentang adanya endapan di pembuluh
+                                darah? </b>
+                        </p>
+                        <p> - Tentu saja ada. Gejala utamanya adalah: </p>
+                        <ul class="myList">
+                            <li> Migrain</li>
+                            <li> Gangguan ingatan</li>
+                            <li> Kelelahan kronis</li>
+                            <li> Insomnia</li>
+                            <li> Masalah dalam berhubungan intim</li>
+                            <li> Gangguan penglihatan dan pendengaran</li>
+                            <li> Tekanan darah tinggi</li>
+                            <li> Gangguan pernapasan dan angina pektoris</li>
+                            <li> Kulit pucat di kaki</li>
+                            <li> Nyeri otot dan sendi</li>
+                        </ul>
+                        <p> Terlepas dari apakah Anda memiliki salah satu gejala ini atau tidak, setelah berusia di atas
+                            30 tahun, perlu untuk membersihkan pembuluh darah setidaknya sekali dalam 5 tahun. Dengan
+                            begitu, Anda akan memiliki kesehatan yang kuat.
+                        </p>
+                        <p> Pembuluh darah memiliki kecenderungan untuk mengumpulkan kotoran, terutama pada orang tua.
+                            Tidak perlu makan burger atau kentang goreng sepanjang hari, bahkan setelah makan sosis atau
+                            telur goreng saja kolesterol dalam jumlah tertentu akan mengendap dalam sel darah, yang,
+                            pada waktunya, akan menumpuk banyak.
+                        </p>
+                        <p> -
+                            <b> Tolong beritahu kami tentang rahasia Anda untuk membersihkan pembuluh darah. </b>
+                        </p>
+                        <p> - Hingga baru-baru ini, proses pembersihan sel darah membutuhkan waktu beberapa bulan. Saya
+                            harus mengumpulkan obat-obatan herbal, mencari obat-obatan herbal ini di pasar atau
+                            memesannya di internet dan membuat infusi dari obat-obatan herbal ini. Sekarang, saya tidak
+                            perlu lagi melakukan ini, karena rekan-rekan saya dari Institut Penyakit Kardiovaskular
+                            telah menciptakan obat yang bagus dan murah untuk membersihkan pembuluh darah - kapsul
+                            Tensilab. Produk ini bahkan mampu menyehatkan tekanan darah dan mengobati hipertensi dengan
+                            membersihkan pembuluh darah. Karena itu, produk ini sangat baik untuk kesehatan kita.
+                        </p>
+                        <center>
+                            <a href="#form"><img class="image_link" src="img/image11.png" width="400"></a>
+                            <i class="myText1">
+                                Jika digunakan secara teratur, kapsul Tensilab bahkan bisa membersihkan pembuluh darah
+                                yang tersumbat paling parah sekalipun hanya dalam waktu 1-2 minggu.
+                            </i>
+                        </center>
+                        <br>
+                        <p> Saya tegaskan bahwa obat ini tak mengandung bahan kimia, hanya ekstrak herbal yang
+                            terkonsentrasi seperti Ekstrak arjuna, Ekstrak Daun Kelor, dan Likopen dengan khasiat
+                            membersihkan sel-sel darah. Inilah mengapa produk ini sangat bermanfaat bagi tubuh
+                            kita.
+                        </p>
+                        <p> Sebagian besar pasien meminta saran saya untuk membersihkan pembuluh darah. Akhir-akhir ini,
+                            saya hanya merekomendasikan produk ini saja kepada mereka. Produk ini sangat efektif.
+                        </p>
+                        <p> Di situs web Institut Penyakit Kardiovaskular, statistik resmi dari penelitian klinis produk
+                            ini telah disajikan. Kurang lebih 2 ribu pasien berpartisipasi dalam penelitian klinis ini,
+                            dan mereka semua menjalani pengobatan menggunakan kapsul Tensilab.
+                        </p>
+                        <strong>
+                            <p class="myText"> Hasil penelitian: </p>
+                        </strong>
+                        <ul class="myList">
+                            <li> Normalisasi tekanan darah arteri dalam waktu 1-2 hari sejak pemberian obat - 2 kapsul
+                                setelah makan - 99% kasus
+                            </li>
+                            <li> Normalisasi irama jantung setelah menyelesaikan perawatan - 97% kasus</li>
+                            <li> Pembersihan menyeluruh pembuluh darah dari kolesterol setelah perawatan - 99% pasien
+                            </li>
+                            <li> Peningkatan efisiensi pengobatan untuk penyakit kronis - 99% pasien</li>
+                            <li> Peningkatan kondisi kesehatan umum - 100% pasien</li>
+                            <li> Tidak adanya reaksi atau efek samping merugikan selama perawatan - 100% pasien</li>
+                        </ul>
+                        <p> -
+                            <b> Berapa harga kapsul Tensilab dan di mana kami dapat membelinya? </b>
+                        </p>
+                        <p>
+                            - Anda mungkin tahu kalau uang pensiun tidak memungkinkan kita membeli obat-obatan mahal.
+                            Saya tak mungkin merekomendasikan obat semacam itu. Kapsul Tensilab sama sekali tidak mahal
+                            dan, saat ini, sedang ada promosi - HINGGA
+                            <script type="text/javascript">
+                                dtime(0)
+                            </script>
+                        </p>
+                        <p> Produk ini adalah obat utama yang diproduksi perusahaan ini untuk mengatasi hipertensi
+                            arteri. Hasilnya, siapa pun dapat membeli kapsul Tensilab dengan diskon 50%.
+                        </p>
+                        <p>
+                            <b> Informasi lebih lanjut tentang cara mendapatkan kapsul Tensilab dengan pengiriman ke
+                                mana saja ke seluruh penjuru negara </b>
+                        </p>
+                        <p> Untuk memesan kapsul Tensilab, Anda harus: </p>
+                        <ul class="myList">
+                            <li> <a href="#form">Mengisi formulir.</a>
+                            </li>
+                            <li> Manajernya akan menghubungi Anda untuk mengonfirmasi alamat pengiriman</li>
+                            <li> Dalam waktu 4-7 hari (jangka waktu pengiriman), Anda akan menerima kapsul Tensilab di
+                                kantor pos.
+                            </li>
+                        </ul>
+                        <p> Untuk menjaga kebersihan pembuluh darah, saya sarankan mengulangi rangkaian pengobatan ini
+                            setiap 1-2 tahun. Terutama untuk orang tua. Ini akan membantu Anda memperkuat kesehatan Anda
+                            dan menunda munculnya tanda-tanda penuaan. Pembuluh darah yang bersih adalah jaminan
+                            kesehatan.
+                        </p>
+                        <p> -
+                            <b> Dr. Hendra, terima kasih telah mengungkapkan informasi-informasi yang sangat penting
+                                dalam wawancara ini. </b>
+                        </p>
+                        <p> Di luar waktu wawancara, Dr. Hendra, mengaku jika dia suka bekerja di kebun dan membantu
+                            anak-anaknya, yang sudah menginjak usia pensiun. Istrinya juga berumur panjang, usianya 99
+                            tahun. Mereka berdua juga menjalani perawatan untuk membersihkan pembuluh darah. Profesor
+                            ini percaya bahwa itulah satu-satunya hal yang membuat mereka bisa tetap bertahan
+                            hidup.
+                        </p>
+
+                        <div class="order">
+                            <div class="order-info">
+                                <h2 class="date">
+                                    <span><script type="text/javascript">dtime(0);</script></span>
+                                    jumlah paket obat yang tersisa sesuai dengan program:
+                                </h2>
+                                <div class="left_count">
+                                    <div class="prod_left_val"></div>
+                                    kemasan
+                                </div>
+                                <div id="region_text">
+                                    <h4>Memeriksa wilayah: <span>Ada program bersubsidi di area Anda saat ini</span></h4>
+                                </div>
+                            </div>
+
+                            <form action="/pl/id-id/send.php" method="POST" class="order-form clearfix" onsubmit="validateform(this); return false;">
+                                <div class="top">
+                                    <h2>Formulir aplikasi resmi</h2>
+                                    <p>№ 11982 dari 12 000 /
+                                        <script type="text/javascript">dtime(0);</script>
+                                    </p>
+                                </div>
+                                <div class="price">
+                                    <p>Dapatkan Tensilab dengan harga <span>490.000 RP.</span></p>
+                                </div>
+                                <div class="frame">
+                                    <p>Untuk mendapatkan Tensilab dengan diskon 50% tulis Nama dan Kontak Anda di kolom di bawah ini dan
+                                        klik
+                                        tombol "MEMBUAT PESANAN"</p>
+                                </div>
+                                <div class="order-input">
+                                    <label>Nama anda:</label>
+                                    <input name="name" id="name" placeholder="Nama" type="text" required minlength="2">
+                                </div>
+                                <div class="order-input">
+                                    <label>Nomor telepon:</label>
+                                    <input id="phone" name="phone" placeholder="Nomor telepon" minlength="10" required>
+                                    <input type="hidden" id="geo" name="geo" value="34695">
+                                    <input type="hidden" id="flow_id" name="flow_id" value="4900s6wvee">
+                                    <input type="hidden" id="sub1" name="sub1" value="{user_id}">
+                                    <input type="hidden" id="sub2" name="sub2" value="{campaign}">
+                                    <input type="hidden" id="sub3" name="sub3" value="px">
+                                    <input type="hidden" id="sub4" name="sub4" value="px">
+                                    <input type="hidden" id="sub5" name="sub5" value="{clickid}">
+                                </div>
+                                <button class="order-btn" type="submit" name="submit">
+                                    MEMBUAT PESANAN
+                                </button>
+                                <div class="timelimit">Penerimaan aplikasi berakhir dengan:
+                                    <span class="timer">
+                ..:..
+            </span>
+                                </div>
+                                <p>* Data Anda dikirim langsung ke pabrik. Tidak ada seorang pun selain dia yang memiliki akses ke
+                                    mereka.</p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <strong>
+                </strong>
+            </div>
+            <strong>
+                <div class="comment-block">
+                    <div class="article">
+                        &nbsp; <br><br><br>
+                        <h3 class="article__title"> Komentar </h3>
+                        <div class="article__text myarticle-comment">
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Sandi P. <span class="mycity">  Jakarta  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Terima kasih! Artikel ini menarik sekali. Saya sudah memesan kapsul Tensilab ini.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Andri <span class="mycity">  Semarang  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Saya sudah membeli dan menguji sendiri kapsul Tensilab ini. Saya menderita tekanan
+                                    darah tinggi selama 7 tahun. Saat itu saya sampai lupa bagaimana hidup saya ketika
+                                    tekanan darah saya masih normal. Atas rekomendasi dokter, saya memutuskan untuk
+                                    membersihkan pembuluh darah saya. Setelah menjalani perawatan selama satu bulan
+                                    dengan kapsul Tensilab, tekanan darah saya berangsur normal! Sudah 2 bulan sejak
+                                    tekanan darah saya tidak tinggi lagi. Rasanya sangat berbeda. Saya merasa seribu
+                                    kali lebih sehat dan bahagia. Saya merekomendasikan obat luar biasa ini kepada semua
+                                    orang, dan tentu saja dengan diskon ini, sayang sekali jika kalian tidak membelinya.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Putra <span class="mycity">  Bandung  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Saya juga menjalani pengobatan mandiri selama sebulan dengan kapsul Tensilab. Saya
+                                    merasa lebih sehat dan lebih kuat. Saya juga jadi merasa lebih muda.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Widya <span class="mycity">  Yogyakarta  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Terima kasih. Aku sudah pesen. Aku senang produk ini bisa dikirimkan melalui pos ke
+                                    mana pun juga.
+                                </p>
+                            </div>
+                            <div class="comment-user" style="display: table;">
+                                <p class="user-name">
+                                    Nandang <span class="mycity">  Lampung  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Paketnya tiba kemarin. Seperti inilah bentuk produknya. Saya akan menjalani
+                                    perawatan pembersihan pembuluh darah bersama istri saya. Pemeriksaan yang kami
+                                    lakukan baru-baru ini menunjukkan kalau pembuluh darah kami tersumbat kolesterol.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Dewi <span class="mycity">  Tangerang  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Sebulan yang lalu, saya memulai pengobatan dengan kapsul Tensilab. Kadang, saya
+                                    memiliki tekanan darah tinggi dan irama jantung yang tak teratur. Saya sudah
+                                    menggunakannya selama 2 minggu. Tekanan darah saya kembali normal. Saya merasa
+                                    sangat sehat.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Nanda <span class="mycity">  Bekasi  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Saya berusia 61 tahun. Saya mulai perawatan untuk membersihkan pembuluh darah 5
+                                    tahun yang lalu. Perawatan ini membantu saya menjaga kesehatan dan memberi saya
+                                    energi dan kekuatan. Saya tak memiliki penyakit apa pun, padahal banyak rekan saya
+                                    yang sudah meninggal. Saya pun masih berhubungan secara rutin seks, maaf ya.
+                                    Membersihkan pembuluh darah itu penting sekali!
+                                </p>
+                            </div>
+                            <div class="comment-user" style="display: table;">
+                                <p class="user-name">
+                                    Dinda <span class="mycity">  Jakarta  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Saya mengobati tekanan darah tinggi dengan kapsul ini. Saya menderita tekanan darah
+                                    tinggi selama bertahun-tahun. Belakangan, saya juga menderita diabetes dan masalah
+                                    ginjal. Serta gangguan daya ingat dan penglihatan. Saya sudah menjalani banyak
+                                    perawatan lain tanpa hasil apa pun. Akhirnya saya memutuskan mencoba kapsul
+                                    Tensilab. Itu pertama kalinya saya memesan produk di Internet. Ternyata mudah
+                                    sekali.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Sinta <span class="mycity">  Serang  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Terima kasih! Saya nonton acara tv tentang produk ini. Semua dokter
+                                    merekomendasikannya. Mereka bilang kalau membersihkan pembuluh darah itu penting
+                                    sekali untuk semua orang.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Chandra <span class="mycity">  Denpasar  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Suplemen ini sangat ampuh! Saya sudah membuktikannya sendiri! Saya memiliki tekanan
+                                    darah 140/90 selama bertahun-tahun. Setelah menjalani perawatan ini, tekanan saya
+                                    kembali menjadi 125/80. Saya merasa sangat sehat!
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Retno <span class="mycity">  Semarang  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Saya sudah baca semua informasi tentang kapsul Tensilab di <a href="#form">
+                                    situs web mereka.</a>
+                                    Mengejutkan dan mengesankan sekali!
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Rendi F. <span class="mycity">  Bogor  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Saya juga memanfaatkan promosi ini! Makasih ya!
+                                </p>
+                            </div>
+                            <div class="comment-user" style="display: table;">
+                                <p class="user-name">
+                                    Indra <span class="mycity">  Madiun  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg">
+                                <p>
+                                    Saya juga menjalani pengobatan sendiri selama sebulan (terhenti-henti). Sekarang
+                                    saya merasa lebih sehat. Penuh dengan vitalitas dan energi, saya berhasil memperkuat
+                                    sistem kekebalan tubuh saya. Saya merasa bagaikan 10 tahun lebih muda. Sekarang umur
+                                    saya 72 tahun.
+                                </p>
+                            </div>
+                            <div class="comment-user">
+                                <p class="user-name">
+                                    Resti <span class="mycity">  Malang  </span>
+                                </p>
+                                <img src="img/user_no_foto.jpg1">
+                                <p>
+                                    Dua bulan lalu, saya juga menjalani perawatan pembersihan pembuluh darah dengan
+                                    kapsul Tensilab. Ketika pembuluh darah saya tersumbat, saya selalu merasa sangat
+                                    lelah, sekarang saya merasa sangat bersemangat. Saya bisa melakukan lebih banyak hal
+                                    di siang hari. Tadinya saya sering merasakan sakit kepala hebat, sekarang sudah
+                                    tidak ada. Sekarang saya bisa tidur lebih nyenyak. Pokoknya, saya sudah pesan
+                                    beberapa paket lagi. Makasih ya!
+                                </p>
+                            </div>
+                            <br>
+                            <center><a class="of-site" href="#form">
+                                Pesan kapsul Tensilab dengan diskon 50%</a>
+                            </center>
+                        </div>
+                        <br><br>
+                    </div>
+                </div>
+            </strong>
+        </div>
+        <strong>
+        </strong>
+    </div>
+    <strong>
+    </strong>
+</div>
+<strong>
+    <footer class="footer">
+        <div class="footer-wrapper footer-wrapper_top">
+            <div class="footer__inner"></div>
+        </div>
+</strong>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript">
+    function validateform(form) {
+        if (form.elements["name"].value == "") {
+            alert("Silahkan masukkan nama lengkap anda");
+            return false;
+        }
+        if (form.elements["name"].value.length < 2) {
+            alert("Silahkan masukkan nama lengkap anda");
+            return false;
+        }
+        var phone_reg = new RegExp("[A-z А-я]", "g");
+        var literInPhone = phone_reg.test(form.elements["phone"].value);
+        if (form.elements["phone"].value == "") {
+            alert("Silahkan, masukkan nomor telepon anda");
+            return false;
+        }
+        if (literInPhone) {
+            alert("Silahkan, masukkan nomor telepon anda");
+            return false;
+        }
+        if (form.elements["phone"].value.length < 10) {
+            alert("Silahkan, masukkan nomor telepon anda");
+            return false;
+        }
+
+        form.querySelector(".btn").setAttribute("disabled", true);
+        form.submit();
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('a').forEach(function (link) {
+            link.addEventListener('click', function (e) {
+                e.preventDefault();
+                let form = document.querySelector('form');
+                form.scrollIntoView({behavior: "smooth", block: "center"});
+            });
+        });
+    });
+</script>
+
+<link rel="stylesheet" href="/umg/1.0.3/comeback.min.css">
+<script type="text/javascript" src="/umg/1.0.3/comeback.min.js"></script>
+
+<div id="comeback" class="comeback_layout" style="display: none">
+    <div class="comeback_wrapper">
+        <div class="comeback_container center-block">
+      <span class="comeback_close" onclick="document.getElementById('comeback').style.display = 'none';">
+        <img src="img/cross.png" width="21" height="21">
+      </span>
+            <h1 style="margin: 0 auto; width: 300px;">Tunggu!</h1>
+            <br>
+            <p>Khusus untuk Anda! Promo hanya hari ini, Tensilab menawarkan harga dengan diskon 50%!</p>
+            <a href="#form" onclick="document.getElementById('comeback').style.display = 'none';"><img class="comeback_img" src="img/image11.png"></a>
+            <br>
+            <a class="btn" onclick="document.getElementById('comeback').style.display = 'none';" href="#form">Pesan Tensilab</a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    let trackerUrl = "//a.losmetas.com/click.php";
+</script>
+<script type="text/javascript">
+	var data = '
+</script>
